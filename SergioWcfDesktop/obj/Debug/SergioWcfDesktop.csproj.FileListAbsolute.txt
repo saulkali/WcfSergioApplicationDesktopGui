@@ -1,0 +1,7 @@
+C:\Users\saul\source\repos\SergioWcfDesktop\SergioWcfDesktop\bin\SergioWcfDesktop.dll.config
+C:\Users\saul\source\repos\SergioWcfDesktop\SergioWcfDesktop\bin\SergioWcfDesktop.dll
+C:\Users\saul\source\repos\SergioWcfDesktop\SergioWcfDesktop\bin\SergioWcfDesktop.pdb
+C:\Users\saul\source\repos\SergioWcfDesktop\SergioWcfDesktop\obj\Debug\SergioWcfDesktop.csprojAssemblyReference.cache
+C:\Users\saul\source\repos\SergioWcfDesktop\SergioWcfDesktop\obj\Debug\SergioWcfDesktop.csproj.CoreCompileInputs.cache
+C:\Users\saul\source\repos\SergioWcfDesktop\SergioWcfDesktop\obj\Debug\SergioWcfDesktop.dll
+C:\Users\saul\source\repos\SergioWcfDesktop\SergioWcfDesktop\obj\Debug\SergioWcfDesktop.pdb

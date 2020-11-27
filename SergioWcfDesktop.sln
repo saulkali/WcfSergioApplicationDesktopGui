@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SergioWcfDesktop", "SergioWcfDesktop\SergioWcfDesktop.csproj", "{70719825-F2E4-492F-8479-3E5C6DE24D03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SergioWcfWindowsFormdesktop", "SergioWcfWindowsFormdesktop\SergioWcfWindowsFormdesktop.csproj", "{2D4C8C69-F9A4-426B-BE87-7576B9738ED9}"
+	ProjectSection(ProjectDependencies) = postProject
+		{70719825-F2E4-492F-8479-3E5C6DE24D03} = {70719825-F2E4-492F-8479-3E5C6DE24D03}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70719825-F2E4-492F-8479-3E5C6DE24D03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70719825-F2E4-492F-8479-3E5C6DE24D03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70719825-F2E4-492F-8479-3E5C6DE24D03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70719825-F2E4-492F-8479-3E5C6DE24D03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D4C8C69-F9A4-426B-BE87-7576B9738ED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D4C8C69-F9A4-426B-BE87-7576B9738ED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D4C8C69-F9A4-426B-BE87-7576B9738ED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D4C8C69-F9A4-426B-BE87-7576B9738ED9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {156F12F0-5B79-4889-8B4D-CEA848C36953}
+	EndGlobalSection
+EndGlobal

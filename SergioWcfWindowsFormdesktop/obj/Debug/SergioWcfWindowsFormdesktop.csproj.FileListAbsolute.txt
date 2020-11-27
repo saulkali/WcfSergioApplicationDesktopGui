@@ -1,0 +1,10 @@
+C:\Users\saul\source\repos\SergioWcfDesktop\SergioWcfWindowsFormdesktop\bin\Debug\SergioWcfWindowsFormdesktop.exe.config
+C:\Users\saul\source\repos\SergioWcfDesktop\SergioWcfWindowsFormdesktop\bin\Debug\SergioWcfWindowsFormdesktop.exe
+C:\Users\saul\source\repos\SergioWcfDesktop\SergioWcfWindowsFormdesktop\bin\Debug\SergioWcfWindowsFormdesktop.pdb
+C:\Users\saul\source\repos\SergioWcfDesktop\SergioWcfWindowsFormdesktop\obj\Debug\SergioWcfWindowsFormdesktop.csprojAssemblyReference.cache
+C:\Users\saul\source\repos\SergioWcfDesktop\SergioWcfWindowsFormdesktop\obj\Debug\SergioWcfWindowsFormdesktop.Form1.resources
+C:\Users\saul\source\repos\SergioWcfDesktop\SergioWcfWindowsFormdesktop\obj\Debug\SergioWcfWindowsFormdesktop.Properties.Resources.resources
+C:\Users\saul\source\repos\SergioWcfDesktop\SergioWcfWindowsFormdesktop\obj\Debug\SergioWcfWindowsFormdesktop.csproj.GenerateResource.cache
+C:\Users\saul\source\repos\SergioWcfDesktop\SergioWcfWindowsFormdesktop\obj\Debug\SergioWcfWindowsFormdesktop.csproj.CoreCompileInputs.cache
+C:\Users\saul\source\repos\SergioWcfDesktop\SergioWcfWindowsFormdesktop\obj\Debug\SergioWcfWindowsFormdesktop.exe
+C:\Users\saul\source\repos\SergioWcfDesktop\SergioWcfWindowsFormdesktop\obj\Debug\SergioWcfWindowsFormdesktop.pdb
